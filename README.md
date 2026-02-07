@@ -1,2 +1,2 @@
 # basic-port-scanner
-A port scanner written in Python
+A Python-based network reconnaissance tool designed for port discovery using socket programming
